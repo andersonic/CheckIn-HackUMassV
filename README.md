@@ -1,4 +1,5 @@
 #  CheckIn--HackUMassV
+David Medina, Declan Gray-Mullen, Eric Thompson-Martin, Jun Ru Anderson
 
 ## Inspiration
 My grandfather, who lived alone, once fell in his kitchen. Because no one routinely checked in on him, he lay there for two and a half days before one of my aunts happened to call him and realize that something was wrong. This reflects the larger problem in America of elderly people (and especially elderly people suffering from degenerative brain disease) living alone and not receiving the frequent check ins that they need. When we heard about Optum's challenge to build something related to health, we were inspired to tackle this problem.
